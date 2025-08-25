@@ -1,0 +1,14 @@
+/* Hoja de estilos css */
+body{
+	background: #120832;
+}
+.apptivaweb {
+	text-align: center;	/* texto centrado*/
+    width: 1170px;    	/* Ancho del contenedor */
+    margin: 0 auto;   	/* contenedor centrado */
+    background: white; 	/* color de fondo  (peru, #ff00ff, 255,00,255,1) */
+    padding: 50px;		/* espacio entre el contenido y el div*/
+}
+h1{
+	color: #04488C;
+}
